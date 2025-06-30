@@ -1,0 +1,44 @@
+body {
+   background-image: url("backgrounds/waterfall.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-attachment: fixed;
+  }
+  h1, h2, h3, h4, h5, h6, p, a {
+    color: white;
+    text-align: center; 
+  }
+  .squircles {
+  height: 50mm;
+  width: 100mm;
+  border-radius: 20%;
+  border: dotted;
+  background: linear-gradient();
+  display: block;
+  margin: auto;
+  backdrop-filter: blur(10px);
+  }
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+.container {
+  align-items: center;
+  display: flex;
+}
+h2, h3, h4, h5, h6, p, a {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.squircles2 {
+    height: 50mm;
+  width: 100mm;
+  border-radius: 20%;
+  border: dotted;
+  background: linear-gradient();
+  display: block;
+  margin: auto;
+  backdrop-filter: blur(10px);
+}
+.button {
+  margin: auto;
+  display: inline-block;
+}
