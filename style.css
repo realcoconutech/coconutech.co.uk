@@ -42,8 +42,8 @@ h2, h3, h4, h5, h6, p, a {
   margin: auto;
   display: inline-block;
 }
-.squircles3 {
-    height: 50mm;
+ .squircles3 {
+  height: 50mm;
   width: 100mm;
   border-radius: 20%;
   border: dotted;
@@ -51,4 +51,4 @@ h2, h3, h4, h5, h6, p, a {
   display: block;
   margin: auto;
   backdrop-filter: blur(10px);
-}
+  }
