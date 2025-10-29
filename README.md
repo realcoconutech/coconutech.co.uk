@@ -1,3 +1,4 @@
+<a href="https://coconutech.co.uk"><img src="https://avatars.githubusercontent.com/u/210167930" height="90" width="auto"></a>
 # Coconut Tech
 Currently, Coconut Tech is an independent developer studio that works with tech to make mini apps/utilites and experiments in technology.
 <br>
