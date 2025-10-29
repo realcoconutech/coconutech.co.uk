@@ -21,6 +21,12 @@ body {
 h1 {
   font-family: 'Courier New', Courier, monospace;
 }
+footer {
+  position: fixed;
+  text-align: center;
+  bottom: 0%;
+  left: 43%;
+}
 .container {
   align-items: center;
   display: flex;
@@ -37,10 +43,6 @@ h2, h3, h4, h5, h6, p, a {
   display: block;
   margin: auto;
   backdrop-filter: blur(10px);
-}
-.button {
-  margin: auto;
-  display: inline-block;
 }
  .squircles3 {
   height: 50mm;
